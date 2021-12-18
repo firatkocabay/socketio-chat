@@ -1,0 +1,14 @@
+{
+  "name": "socketio-chat",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Fırat Kocabay <12109835+firatkocabay@users.noreply.github.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/firatkocabay/socketio-chat",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "semantic": "^2.4.1"
+  }
+}
